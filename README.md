@@ -1,2 +1,2 @@
 # product-Mazen-Site
-مشروع واجهة لوحة تحكم (Dashboard) تم تصميمه باستخدام HTML و CSS، يهدف إلى عرض البيانات بشكل منظم وبسيط مع تصميم عصري واحترافي.  ✨ مميزات المشروع: تصميم Sidebar جانبي تفاعلي عرض إحصائيات (Users, Posts, Products, Revenue) جدول بيانات منظم للمنتجات أيقونات احترافية باستخدام Font Awesome تصميم عصري مع ألوان متناسقة تأثيرات Hover لتحسين تجربة المستخدم
+This dashboard project aims to display data in an organized and simple way. Project features include: displaying statistics (Users, Posts, Products, Revenue), a well-organized product data table, a modern design with harmonious colors
